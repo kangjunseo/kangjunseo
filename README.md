@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kangjunseo
 - 👀 I’m interested in BioInformatics!
-- 🌱 I’m currently learning Algorithm, Database, and Machine Learning.
+- 🌱 I’m currently learning Algorithm, DataBase Management System, and Machine Learning.
 - 💞️ I’m looking to collaborate on ... not yet..
 - 📫 How to reach me --> kji98765@naver.com // kji98765@hanyang.ac.kr !! Contact please!
 
