@@ -19,4 +19,4 @@ You can click the Preview link to take a look at your changes.
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=kji98765)](https://solved.ac/kji98765)
 
-<img src="https://img.shields.io/badge/#00599C?style=plastic&logo=appveyor&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=appveyor&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
