@@ -18,4 +18,4 @@ You can click the Preview link to take a look at your changes.
 
 <br/>
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj={kji98765})](https://solved.ac/{kji98765})
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kji98765)](https://solved.ac/kji98765)
