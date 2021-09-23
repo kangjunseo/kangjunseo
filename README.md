@@ -15,3 +15,7 @@ You can click the Preview link to take a look at your changes.
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kangjunseo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<br/>
+
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj={kangjunseo})](https://solved.ac/{kangjunseo})
