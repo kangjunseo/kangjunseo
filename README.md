@@ -14,4 +14,4 @@ You can click the Preview link to take a look at your changes.
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kangjunseo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-      [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=kji98765)](https://solved.ac/kji98765)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=kji98765)](https://solved.ac/kji98765)
