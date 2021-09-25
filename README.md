@@ -1,5 +1,5 @@
 - 👋 Hi, I’m majoring in Bio Engineering and Bio SoftWare.
-- 👀 I’m interested in BioInformatics!
+- 👀 I’m interested in Machine Learning & BioInformatics!
 - 🌱 I’m currently learning Algorithm, DataBase Management System, and Machine Learning.
 - 📫 How to reach me --> kji98765@naver.com // kji98765@hanyang.ac.kr !! Contact please!
 
