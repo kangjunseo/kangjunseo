@@ -32,4 +32,4 @@ DBs
 <br/>
 <br/>
 <br/>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangjunseo&show_icons=true&theme=dark&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=kji98765)](https://solved.ac/kji98765)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangjunseo&show_icons=true&theme=dark&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
