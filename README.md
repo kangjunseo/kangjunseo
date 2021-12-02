@@ -1,8 +1,8 @@
-- 👋 Hi, I’m majoring in `Bio Engineering` and `Bio SoftWare` in `🏢 Hanyang University`.
-- 👀 I’m interested in Machine Learning & BioInformatics!
-- 🌱 I’m currently learning BioInformatics Algorithm, Machine Learning, and Flask.
-- 🏢 I'm the general member of GDSC(Google Developer Student Clubs) Hanyang.  
-- 📫 How to reach me --> kji98765@naver.com // kji98765@hanyang.ac.kr !! Contact please!
+## Junseo Kang
+- 🏫 School : Hanyang University &nbsp; / &nbsp; 📚 Major : Bioengineering, Bio SoftWare
+- 👀 Interest : Machine Learning / BioInformatics
+- 💡 Currently learning : BioInformatics Algorithm / Machine Learning / Flask  
+- 📞 Contact : kji98765@naver.com // kji98765@hanyang.ac.kr 
 
 ---
 
