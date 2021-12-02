@@ -4,7 +4,7 @@
 - 💡 Currently learning : BioInformatics Algorithm / Machine Learning / Flask  
 - 📞 Contact : kji98765@naver.com // kji98765@hanyang.ac.kr 
 
----
+<br/>
 
 ## 📚 **Stack**
 <!--
@@ -32,4 +32,5 @@ DBs
 <br/>
 <br/>
 <br/>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangjunseo&show_icons=true&theme=dark&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
