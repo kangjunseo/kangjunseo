@@ -1,4 +1,4 @@
-## Junseo Kang
+## 🧑🏻 Junseo Kang
 - 🏫 School : Hanyang University &nbsp; / &nbsp; 📚 Major : Bioengineering, Bio SoftWare
 - 👀 Interest : Machine Learning / BioInformatics
 - 💡 Currently learning : BioInformatics Algorithm / Machine Learning / Flask  
