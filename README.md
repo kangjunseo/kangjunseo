@@ -1,7 +1,7 @@
 ## 🧑🏻 Junseo Kang
-- 🏫 School : Hanyang University &nbsp; / &nbsp; 📚 Major : Bioengineering, Bio SoftWare (Double Major), AI Micro Course (Micro Major) 
-- 👀 Interest : Machine Learning / BioInformatics
-- 💡 Currently learning : BioInformatics Algorithm / Machine Learning / Flask  
+- 🏫 School : Hanyang University &nbsp;  &nbsp; 📚 Major : Bioengineering, Bio SoftWare (Double Major), AI Micro Course (Micro Major) 
+- 👀 Interest : Machine Learning // BioInformatics
+- 💡 Currently learning : BioInformatics Algorithm // Machine Learning // Flask  
 - 📞 Contact : kji98765@naver.com // kji98765@hanyang.ac.kr 
 
 <br/>
