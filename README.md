@@ -2,7 +2,7 @@
 - 🏫 School : Hanyang University &nbsp;  &nbsp; 
 - 📚 Major : 🧬Bioengineering🧬 // 🧬Bio Software💻 // AI Micro Major
 - 👀 Interest : Machine Learning // BioInformatics
-- 💡 Currently learning : BioInformatics Algorithm // Linear Algebra // Algorithm // NLP
+- 💡 Currently learning : Machine Learning Algorithm // Algorithm // NLP
 <!--- 📞 Contact : kji98765@naver.com // kji98765@hanyang.ac.kr -->
 
 <br/>
