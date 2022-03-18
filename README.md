@@ -41,4 +41,4 @@ DBs
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kangjunseo&hide=jupyter%20notebook,cmake,makefile&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <!--jupyter%20notebook-->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangjunseo&show_icons=true&theme=dark&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangjunseo&show_icons=true&theme=dark&hide=)](https://github.com/anuraghazra/github-readme-stats)
