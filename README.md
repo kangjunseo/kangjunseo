@@ -2,7 +2,7 @@
 - 🏫 School : Hanyang University &nbsp;  &nbsp; 
 - 📚 Major : 🧬Bioengineering🧬 // 🧬Bio Software💻 
 - 👀 Interest : Machine Learning // BioInformatics
-- 💡 Currently learning : QBioLab Internship
+- 💡 Currently learning : Nanopore Sequencing // BioInformatics Algorithms
 <!--- 📞 Contact : kji98765@naver.com // kji98765@hanyang.ac.kr -->
 
 <br/>
@@ -21,6 +21,7 @@ Langs
 <!--
 Frameworks
 -->
+<a href=# ><img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a> 
 <a href=# ><img src="https://img.shields.io/badge/Sklearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/></a> 
 <a href=# ><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>
 <a href=# ><img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a>
