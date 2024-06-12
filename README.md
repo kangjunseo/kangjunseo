@@ -1,10 +1,10 @@
 ## 🧑🏻 Junseo Kang
-- 🏫 School : Hanyang University &nbsp;  &nbsp; 
-- 📚 Major : 🧬Bioengineering🧬 // 🧬Bio Software💻 
+- 🏫 School : Seoul National University &nbsp;  &nbsp; 
+- 📚 Major : 🧬Pharmacy 
 - 👀 Interest : Machine Learning // BioInformatics
-- 💡 Currently learning : Microbiology & Experiment techniques // bio-data analysis
-- 📞 Contact : kji98765@naver.com // kji98765@hanyang.ac.kr
-
+  <!-- 💡 Currently learning : Microbiology & Experiment techniques // bio-data analysis
+- 📞 Contact : junseokang@snu.ac.kr
+  
 <br/>
 
 ## 📚 **Stack**
